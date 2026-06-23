@@ -17,13 +17,13 @@ If you need help or updates, check the buttons below 👇"""
         
         buttons = InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("➕ Add me to your group", url="https://t.me/Aaradhyasongbot?startgroup=true")],
-                [InlineKeyboardButton("📢 Updates Channel", url="https://t.me/shivang_xd")],
+                [InlineKeyboardButton("➕ Add me to your group", url="https://t.me/Bio_xremoverbot?startgroup=true")],
+                [InlineKeyboardButton("📢 Updates Channel", url="https://t.me/ABOUT_ROLEX_ANU")],
                 [InlineKeyboardButton("❓ Help & Commands", callback_data="help")]
             ]
         )
 
-        photo_url = "https://graph.org/file/fab32af0223055637d4a6-356f444b3e7453b4d6.jpg"
+        photo_url = "https://postimg.cc/5H8P5Y7F"
 
         try:
             # Group mein photo bhejna kabhi kabhi permission issue de sakta hai
