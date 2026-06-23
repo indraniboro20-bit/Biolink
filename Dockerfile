@@ -16,4 +16,5 @@ COPY . /app/
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Run the bot
-CMD ["python", "-m", "bot"]
+CMD ["python", "-m", "Biolink"]
+
